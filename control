@@ -1,0 +1,18 @@
+Source: ansiweather
+Section: utils
+Priority: extra
+Maintainer: Javier Fafian Alvarez <fafian@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://github.com/fcambus/ansiweather
+
+Package: ansiweather
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}, wget | curl, bc, jq
+Description: Weather in your terminal, with ANSI colors and Unicode symbols
+ AnsiWeather is a Shell script for displaying the current
+ weather conditions in your terminal, with support for
+ ANSI colors and Unicode symbols.
+ .
+ Weather data comes from OpenWeatherMap, free weather API.
