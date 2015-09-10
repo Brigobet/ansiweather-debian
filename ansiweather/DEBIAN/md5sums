@@ -1,0 +1,10 @@
+4d0153552fccd33e67b550ce04dffe15  usr/bin/ansiweather
+cc0052fc5789ef5ae2316ef277e652dc  usr/share/doc/ansiweather/AUTHORS
+0b4b6ce7a399fe22932fc7bbeb211e34  usr/share/doc/ansiweather/ChangeLog
+18aab4e28201876b043cb316d9d2bc83  usr/share/doc/ansiweather/README.md
+14a7e1e6f73602db69af04d03493db64  usr/share/doc/ansiweather/ansiweather.plugin.zsh
+092374c5357b304429d8e3564dba92b4  usr/share/doc/ansiweather/ansiweatherrc.example
+d39e986e3cde4241817e1240c528e22f  usr/share/doc/ansiweather/changelog.Debian.gz
+c14a433d24ca6aa8513c4982446387d2  usr/share/doc/ansiweather/changelog.gz
+752b439c3662ca7d13d44736c61472d8  usr/share/doc/ansiweather/copyright
+6c5b02bea35a1773a32c089498656c46  usr/share/man/man1/ansiweather.1.gz
